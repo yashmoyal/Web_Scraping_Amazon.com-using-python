@@ -34,7 +34,15 @@
 ### 1) web_scraping_amazon_to_understand_each_function : This file walkes through each and every function you need to create this Project. you can take it as ### Experimenting file.
 ### 2) Web_Scraping_python_amazon_final : This final contains the organised form of each and every function to create this project.
 
+------------------------------------------------------------------------------------
 
+## *For getting your user Agent:*
+### Step 1: Goto [What is my browser.com](https://www.whatismybrowser.com/).
+### Step 2: Clik on the "Detect my Settings' on top of the page.
+### Step 3:  On this page find "What is my User Agent?" and click it.
+### Step 4:  Copy your user agent.
+
+---------------------------------------------------------------
 
 ### *And Lastly !!*
 ### *Happy Learning*
